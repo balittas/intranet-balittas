@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-         <title>BALITTAS </title>
+         <title>BSIP-TAS </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
@@ -94,7 +94,7 @@
                                             <ul class="submenu">
                                                 <li><a href="{{ route('kepegawaian') }}">KEPEGAWAIAN</a></li>
                                                 <li><a href="{{ route('sdm') }}">SUMBER DAYA MANUSIA</a></li>
-                                                <li><a href="{{ route('sk-table') }}">SK BALITTAS</a></li>
+                                                <li><a href="{{ route('sk-table') }}">SK BSIP-TAS</a></li>
                                                 <li><a href="{{ route('duk') }}">DUK</a></li>
                                                 <li><a href="https://drive.google.com/file/d/1jTF-43r2hWjt9F2LTITdQ8ooWVCt3eN6/view" target="_blank">SOP KEPEGAWAIAN</a></li>
 
@@ -161,7 +161,7 @@
                      <div class="col-lg-6">
                          <div class="footer-copy-right">
                              <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright Balittas &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </a>
+Copyright BSIP-TAS&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                          </div>
                      </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Data Management | Intranet Balittas</title>
+    <title>Data Management | Intranet BSIP-TAS</title>
     <link rel="icon" href="{{url('public/assets/admin/img/logo/icon.png')}}">
     <meta name="description" content="">
     <meta name="keywords" content="">

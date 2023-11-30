@@ -17,7 +17,7 @@
                             <header>
                                 <h1><strong>Sumber Daya Manusia</strong></h1>
                             <section>
-                                <p style="font-size: 20px; color: black;">Balai Penelitian Tanaman Pemanis dan Serat (BALITTAS) di tahun 2020 memiliki pegawai 144
+                                <p style="font-size: 20px; color: black;">Balai Pengujian Standar Instrumen Tanaman Pemanis dan Serat (BSIP-TAS) di tahun 2023 memiliki pegawai 55
                                     <p>(1) Matrik Rekapitulasi SDM berdasarkan tingkat pendidikan</p>
                                     <p>(2) Matrik Rekapitulasi SDM berdasarkan kompetensi – keahlian mendukung fokus unggulan</p>
                                     <p>(3) Matrik Rekapitulasi Pengembangan Kapasitas SDM</p>

@@ -17,7 +17,7 @@
                             <table id="dataTable" class="table table-striped table-bordered nowrap" style="width: 102%">
                                 <thead>
                                     <tr>
-                                        <th colspan="3">Daftar Keputusan Kepala Balai Penelitian Tanaman Pemanis dan Serat</th>
+                                        <th colspan="3">Daftar Keputusan Kepala Balai Pengujian Standar Instrumen Tanaman Pemanis dan Serat</th>
                                     </tr>
                                     <tr>
                                         <th>Nomor SK</th>
