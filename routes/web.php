@@ -74,6 +74,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
     Route::get('/sdm', [SDMController::class, 'index'])->name('sdm');
     Route::get('/duk', [DUKTableController::class, 'index'])->name('duk');
     Route::get('/sni', [SNITableController::class, 'index'])->name('sni');
+    Route::get('/program', [ProgramController::class, 'index'])->name('program');
     Route::get('/format-laporan', [LaporanTableController::class, 'index'])->name('format-laporan');
     Route::get('/format-proposal', [ProposalTableController::class, 'index'])->name('format-proposal');
     Route::get('/format-matrik', [MatrikTableController::class, 'index'])->name('format-matrik');

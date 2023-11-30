@@ -125,7 +125,7 @@
                                                 <li><a href="{{ route('rdhp-table') }}">RDHP</a></li>
                                             </ul>
                                         </li>
-                                        <li class="float-left"><a href="javascript:void(0)">PROGRAM</a></li>
+                                        <li class="float-left"><a href="{{ route('program') }}">PROGRAM</a></li>
                                         <li class="float-left"><a href="{{ route('sni') }}">Dokumen SNI</a>
                                         </li>
                                         <li class="float-left"><a href="javascript:void(0)">KELOMPOK PENELITI</a>
