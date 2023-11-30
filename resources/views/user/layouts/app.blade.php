@@ -64,7 +64,7 @@
                         <!-- Logo -->
                         <div class="col-xl-12 col-lg-12 col-md-12" >
                             <div class="header-banner f-right ">
-                                <img src="{{asset('assets/frontend/img/banner/banner.jpg')}}" style="border-radius: 20px">
+                                <img src="{{asset('assets/frontend/img/banner/banner.png')}}" style="border-radius: 20px">
                             </div>
                         </div>
                     </div>
