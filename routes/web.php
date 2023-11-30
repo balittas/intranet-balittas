@@ -23,6 +23,7 @@ use App\Http\Controllers\ProposalTableController;
 use App\Http\Controllers\MatrikTableController;
 use App\Http\Controllers\KAKTableController;
 use App\Http\Controllers\LakinTableController;
+use App\Http\Controllers\ProgramController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
